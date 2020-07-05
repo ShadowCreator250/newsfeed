@@ -1,0 +1,62 @@
+* {
+	padding: 20px;
+	margin: 0;
+}
+body {
+
+}
+#outputArea {
+
+}
+ul.year {
+	list-style-type: none;
+	border: 5px black solid;
+}
+body > ul.year:first-of-type {
+	background: black;
+	background-color: black;
+} /*:first-child doesn't work somehow...*/
+body > ul.year:last-child {
+	background-color: violet;
+	background: violet;
+}
+ul.year:nth-child(odd) {
+	border-color: lightgray;
+}
+ul.year:nth-child(even) {
+	border-color: darkgray;
+}
+ul.year > li.entry {
+	border: 5px black dotted;
+	background-color: white;
+	background: white;
+}
+ul.year > li.entry:first-child {
+	background: darkred;
+	background-color: darkred;
+}
+ul.year > li.entry:last-child {
+	background: pink;
+	background-color: pink;
+} /*if there is only 1 li, this is the first and the last; because :last-child stands under :first-child, :last-child will be used*/
+ul.year > li.entry:nth-child(odd) {
+	border-color: green;
+}/*:nth-child starts counting with 1; if there is only 1 ul/li element it will have the number 1 and so will be odd */
+ul.year > li.entry:nth-child(even) {
+	border-color: blue;
+}
+p.header {
+	border: 3px black dashed;
+}
+span.heading {
+	border: 3px white dashed;
+}
+span.date {
+	border: 3px white dashed;
+}
+span.time {
+	border: 3px white dashed;
+}
+p.text {
+	border: 3px black solid;
+}

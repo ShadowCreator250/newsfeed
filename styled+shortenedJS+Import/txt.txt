@@ -1,0 +1,21 @@
+﻿{"title":"a bis z","text":"abcdefghijkl$$/nmnopqrstuvwxyz","date":"21.5.2018","time":"17:40"}
+$$/l{"title":"A bis Z","text":"ABCDEFGHIJKL$$/nMNOPQRSTUVWXYZ","date":"25.6.2018","time":"18:18"}
+$$/l{"title":"Zahlen","text":"12345$$/n67890","date":"30.6.2018","time":"21:35"}
+$$/y{"title":"a bis z","text":"abcdefghijkl$$/nmnopqrstuvwxyz","date":"21.5.2019","time":"17:40"}
+$$/l{"title":"A bis Z","text":"ABCDEFGHIJKL$$/nMNOPQRSTUVWXYZ","date":"25.6.2019","time":"18:18"}
+$$/l{"title":"Zahlen","text":"12345$$/n67890","date":"30.6.2019","time":"21:35"}
+$$/y{"title":"a bis z","text":"abcdefghijkl$$/nmnopqrstuvwxyz","date":"21.5.2020","time":"17:40"}
+$$/l{"title":"A bis Z","text":"ABCDEFGHIJKL$$/nMNOPQRSTUVWXYZ","date":"25.6.2020","time":"18:18"}
+$$/l{"title":"Zahlen","text":"12345$$/n67890","date":"30.6.2020","time":"21:35"}
+$$/l{"title":"a bis z","text":"abcdefghijkl$$/nmnopqrstuvwxyz","date":"21.5.2021","time":"17:40"}
+$$/l{"title":"A bis Z","text":"ABCDEFGHIJKL$$/nMNOPQRSTUVWXYZ","date":"25.6.2021","time":"18:18"}
+$$/l{"title":"Zahlen","text":"12345$$/n67890","date":"30.6.2021","time":"21:35"}
+$$/y{"title":"Test with HTML in the text","text":"<a href=\"http://pbgym.de\"> PBG</a>$$/nDas sollte ein Link sein...","date":"04.08.2018","time":"12:55"}
+$$/l{"title":"~~~","text":"<a href=\"\">blub</a>","date":"04.08.2018","time":"13:18"}
+$$/l{"title":"~~~","text":"","date":"04.08.2018","time":"15:23"}
+$$/y{"title":"Hallo","text":"Hallo.$$/nIch bin heute mit dem System des Newsfeeds fertig geworden und mache die letzten Tests.","date":"12.08.2018","time":"14:10"}
+$$/l{"title":"Test: Umlaute","text":" ÄäÜüÖöß","date":"21.08.218","time":"17:24"}
+$$/l{"title":"Chortage sind tol.","text":"lol","date":"23.11.2018","time":"22:12"}
+$$/l{"title":"","text":"ahdgzauqivdkh$$/nhzgfaduzdfzggadz$$/naihdudgidau","date":"18.04.2019","time":"21:32"}
+$$/y{"title":"a bis z","text":"abcdefghijkl$$/nmnopqrstuvwxyz","date":"21.05.2019","time":"17:40"}
+$$/y{"title":"Test with HTML in the text","text":"<a href=\"http://pbgym.de\"> PBG</a>$$/nDas sollte ein Link sein...","date":"04.08.2018","time":"12:55"}

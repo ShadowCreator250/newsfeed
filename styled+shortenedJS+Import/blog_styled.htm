@@ -1,0 +1,144 @@
+<!DOCTYPE=html>
+	<html>
+
+	<head>
+		<title>Blog - Layout tst</title>
+
+		<script src="blog.js" type="text/javascript"></script>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<style>
+			body {
+				background-color: #303031;
+				background: #303031;
+				width: 100%;
+				height: 100%;
+				color: white;
+				font-family: "Open Sans", sans-serif;
+				padding: 0px 5px;
+				margin: 0px;
+			}
+
+			ul.year {
+				list-style-type: none;
+				margin: 0;
+				padding: 10px;
+				width: auto;
+				max-width: 95%;
+				min-width: 90%;
+				height: auto;
+				margin: 0px 0px 30px 0px;
+				margin-left: auto;
+				margin-right: auto;
+				box-shadow: 18px 15px 15px 3px rgba(13, 13, 13, 1);
+				-moz-box-shadow: 18px 15px 15px 3px rgba(13, 13, 13, 1);
+				-webkit-box-shadow: 18px 15px 15px 3px rgba(13, 13, 13, 1);
+				color: rgb(27, 26, 26);
+			}
+
+			ul.year:first-of-type {
+				margin-top: 30px;
+			}
+
+			ul.year>li.entry {
+				border-radius: 15px;
+				padding: 0px;
+				margin: 0px 10% 20px 10%;
+				max-width: 80%;
+				min-width: 40%;
+				width: auto;
+				height: auto;
+				box-shadow: 14px 7px 10px 3px rgba(46, 45, 45, 1);
+				-moz-box-shadow: 14px 7px 10px 3px rgba(46, 45, 45, 1);
+				-webkit-box-shadow: 14px 7px 10px 3px rgba(46, 45, 45, 1);
+			}
+
+			ul.year:nth-child(odd) {
+				background: #4a4a4a;
+				background-color: #4a4a4a;
+			}
+
+			ul.year:nth-child(even) {
+				background: #414040;
+				background-color: #414040;
+			}
+
+			ul.year>li.entry:last-child {
+				margin-bottom: 0px;
+			}
+
+			ul.year>li.entry:nth-child(odd) {
+				margin-right: 20%;
+				border: #c39800 3px solid;
+				background-color: #f5bf00;
+				background: #f5bf00;
+			}
+
+			ul.year>li.entry:nth-child(even) {
+				margin-left: 20%;
+				border: #c28600 3px solid;
+				background-color: #ffb000;
+				background: #ffb000;
+			}
+
+			p.header {
+				margin: 0px;
+				padding: 10px 0px 0px 15px;
+				width: 100%;
+				max-height: 120px;
+				min-height: 40px;
+				height: auto;
+				position: relative;
+				color: rgb(57, 57, 57);
+			}
+
+			span.heading {
+				margin: 0px 3px 0px 0px;
+				font-variant: small-caps;
+				font-weight: bold;
+				font-size: 1.2em;
+			}
+
+			span.date {
+				margin: 0px 1px 0px 0px;
+				font-size: 0.7em;
+			}
+
+			span.time {
+				margin: 0px 0px 0px 0px;
+				font-size: 0.7em;
+			}
+
+			p.text {
+				margin: 0px;
+				padding: 10px;
+				border-top: black 1px solid;
+			}
+		</style>
+
+	</head>
+	<!--
+Textarea for the outputter:
+<p id="outputArea">
+Please wait. The output will be displayed soon.
+
+</p>
+-->
+
+	<!--<body onload="load()"> -->
+
+	<body id="outputArea">
+		<Script type="text/JavaScript">insertBlog("txt.txt","outputArea", true);</Script>
+
+		<br><br>
+		Newsfeed lohl ^-^:
+
+		<br><br>
+
+
+		<BR>
+
+		<body>
+
+	</html>
